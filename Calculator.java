@@ -4,7 +4,9 @@ public class Calculator{
 		return a + b;
 	}
 
-	private int multi(int a, int b){return 0;}
+	private int multi(int a, int b){
+		return a*b;
+	}
 	private int resta(int a, int b){return 0;}
 
 }
